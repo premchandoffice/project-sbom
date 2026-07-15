@@ -2,7 +2,7 @@
 
 - **Source file:** `ops-master-cyclonedx-identified.json`
 - **Scan timestamp:** 2026-07-13T04:54:23.175Z
-- **Report generated:** 2026-07-15T06:23:33.245391+00:00
+- **Report generated:** 2026-07-15T11:54:05.198210+00:00
 - **Total component entries:** 932
 - **Unique package names:** 363
 - **Vulnerability data present:** No

@@ -2,7 +2,7 @@
 
 - **Source file:** `AuditCodebase4-cyclonedx-identified.json`
 - **Scan timestamp:** 2026-07-15T06:03:10.121Z
-- **Report generated:** 2026-07-15T06:23:33.237782+00:00
+- **Report generated:** 2026-07-15T11:54:05.190571+00:00
 - **Total component entries:** 41
 - **Unique package names:** 34
 - **Vulnerability data present:** No
