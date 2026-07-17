@@ -50,7 +50,7 @@ def summarize(sbom_path: Path) -> str:
     lines = []
     lines.append(f"# SBOM Summary Report — {app_name}")
     lines.append("")
-    lines.append(f"- **Source file:** `{sbom_path.name}`")
+    lines.append(f"- **Source file:** {sbom_path.name}")
     lines.append(f"- **Scan timestamp:** {scan_ts}")
     lines.append(f"- **Report generated:** {datetime.now(timezone.utc).isoformat()}")
     lines.append(f"- **Total component entries:** {total}")
