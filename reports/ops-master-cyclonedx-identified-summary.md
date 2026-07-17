@@ -1,8 +1,8 @@
 # SBOM Summary Report — ops-master
 
-- **Source file:** `ops-master-cyclonedx-identified.json`
+- **Source file:** ops-master-cyclonedx-identified.json
 - **Scan timestamp:** 2026-07-13T04:54:23.175Z
-- **Report generated:** 2026-07-17T05:13:14.375121+00:00
+- **Report generated:** 2026-07-17T06:39:15.891303+00:00
 - **Total component entries:** 932
 - **Unique package names:** 363
 - **Vulnerability data present:** No

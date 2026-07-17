@@ -1,8 +1,8 @@
 # SBOM Summary Report — SampleCodebase
 
-- **Source file:** `SampleCodebase-cyclonedx-identified.json`
+- **Source file:** SampleCodebase-cyclonedx-identified.json
 - **Scan timestamp:** 2026-07-15T09:44:48.937Z
-- **Report generated:** 2026-07-17T05:13:14.367436+00:00
+- **Report generated:** 2026-07-17T06:39:15.880865+00:00
 - **Total component entries:** 13
 - **Unique package names:** 13
 - **Vulnerability data present:** No

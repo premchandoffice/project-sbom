@@ -1,8 +1,8 @@
 # SBOM Summary Report — AuditCodebase4
 
-- **Source file:** `AuditCodebase4-cyclonedx-identified.json`
+- **Source file:** AuditCodebase4-cyclonedx-identified.json
 - **Scan timestamp:** 2026-07-15T06:03:10.121Z
-- **Report generated:** 2026-07-17T05:13:14.367030+00:00
+- **Report generated:** 2026-07-17T06:39:15.880485+00:00
 - **Total component entries:** 41
 - **Unique package names:** 34
 - **Vulnerability data present:** No
